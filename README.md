@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @marialealwxw
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👋 olá, meu nome é Maria Clara leal
+- 👀 estou interressada em aprender novas linguagens de progamação
+- 💞️ estou colaborando com as aulas de pensamento computacional
+- ja aprendi scracth e java script
+- 📫 meu email é maria.leal15@escola.pr.gov.br
 
 <!---
 marialealwxw/marialealwxw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
